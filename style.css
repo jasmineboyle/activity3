@@ -1,7 +1,32 @@
 p {
-    color: aqua;
-}
-body {
-    background-color: darkblue  ;
-}
+    color: rgb(3, 24, 24);
 
+} 
+.babi{
+    float: left;
+    width: 10cm;
+    height: 10cm;
+}
+.me{
+    float:left;
+    width: 10cm;
+    height: 10cm;
+}
+.fren{
+    float:left ;
+    width: 10cm;
+    height: 10cm;
+}
+.abash{
+   float:left ;
+   width: 10cm;
+   height: 10cm;
+}
+.akla{
+  float:left ;
+  width: 10cm;
+  height: 10cm;  
+}
+.alex{
+    text-align: center;
+}
